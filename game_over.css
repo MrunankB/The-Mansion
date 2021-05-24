@@ -1,0 +1,6 @@
+body{
+  background-image:url("game over.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: -200px center;
+}
